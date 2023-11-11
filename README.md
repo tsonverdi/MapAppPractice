@@ -26,4 +26,7 @@ in the terminal, the application will start running.
 
 [Add New Photo-2](https://github.com/tsonverdi/PhotoAppPractice/assets/92997075/dbf153b8-d6f9-44b4-8c27-b28571a23401)
 
+[Main-Menu](https://github.com/tsonverdi/PhotoAppPractice/assets/92997075/ebdfa752-b481-4a92-9d7e-1197c16b4aab)
+
+
 
